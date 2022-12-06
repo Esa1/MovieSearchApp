@@ -1,3 +1,10 @@
+#API key for MovieSearchApp (v3 auth)
+95674f6f75324b315d0cabd457e2ff40
+#API Reguest esimerkki
+https://api.themoviedb.org/3/movie/550?api_key=95674f6f75324b315d0cabd457e2ff40
+#API:n lukuoikeuden tunnus (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NTY3NGY2Zjc1MzI0YjMxNWQwY2FiZDQ1N2UyZmY0MCIsInN1YiI6IjYzODZkMjBmNWVkOGU5MDA4M2Y3ZDJiZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.srW8n64c8Mb2xSXuzlKnSzc1NsfMLYXW3JC4UHGtVKY
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
