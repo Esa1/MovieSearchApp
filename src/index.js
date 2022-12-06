@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+//import App from './App';
 //import reportWebVitals from './reportWebVitals';
+import SearchMovies from './SearchMovies';
 
 function Main() {
     return (
       <div className="container">
         <h1 className="title">React Movie Search</h1>
+        <SearchMovies />
       </div>
     );
 }
